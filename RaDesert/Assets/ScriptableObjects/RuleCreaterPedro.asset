@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb16827df8b9f6498296d6f90920e64, type: 3}
+  m_Name: RuleCreaterPedro
+  m_EditorClassIdentifier: 
+  cardName: Rule Creator Pedro
+  cardDescription: Follow the rules
+  cardAttack: 2
+  cardHealth: 7
+  cardCost: 6
+  cardType: 3
+  primaryCardArchetype: 1
+  imageColor: {r: 1, g: 0.33959794, b: 0.30566037, a: 1}

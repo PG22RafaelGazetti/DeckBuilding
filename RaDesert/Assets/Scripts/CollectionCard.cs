@@ -19,7 +19,9 @@ public class CollectionCard : ScriptableObject
 
     public CardArchetype primaryCardArchetype;
 
-    public CardArchetype secondaryCardArchetype;
+    public Color imageColor;
+
+    //public CardArchetype secondaryCardArchetype;
 
 
     public enum CardType
@@ -29,6 +31,8 @@ public class CollectionCard : ScriptableObject
         Beast,
         Elemental,
         Spirit,
+        Mech,
+        Demon,
     }
 
     public enum CardArchetype

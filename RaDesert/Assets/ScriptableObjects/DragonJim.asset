@@ -10,13 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fbb16827df8b9f6498296d6f90920e64, type: 3}
-  m_Name: CardJim
+  m_Name: DragonJim
   m_EditorClassIdentifier: 
-  cardName: Jim
-  cardDescription: Programmer
+  cardName: Dragon Jim
+  cardDescription: Elegant programmer
   cardAttack: 5
   cardHealth: 5
   cardCost: 5
   cardType: 0
   primaryCardArchetype: 0
-  secondaryCardArchetype: 0
+  imageColor: {r: 0.755874, g: 0.8962264, b: 0.8757466, a: 1}

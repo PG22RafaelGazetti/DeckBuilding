@@ -10,13 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fbb16827df8b9f6498296d6f90920e64, type: 3}
-  m_Name: CardTest
+  m_Name: NightmareHollow
   m_EditorClassIdentifier: 
-  cardName: Desert Snake
-  cardDescription: Poisonus
-  cardAttack: 1
-  cardHealth: 7
-  cardCost: 4
-  cardType: 2
-  primaryCardArchetype: 2
-  secondaryCardArchetype: 1
+  cardName: Nightmare Hollow
+  cardDescription: Spooky
+  cardAttack: 5
+  cardHealth: 2
+  cardCost: 3
+  cardType: 4
+  primaryCardArchetype: 0
+  imageColor: {r: 0.8706992, g: 0.3622641, b: 1, a: 1}
